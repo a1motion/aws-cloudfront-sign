@@ -1,6 +1,6 @@
 {
   "name": "@a1motion/aws-cloudfront-sign",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "Utility module for signing AWS CloudFront URLs",
   "author": "Jason Sims <sims.jrobert@gmail.com>",
   "contributors": [
@@ -28,9 +28,9 @@
   "tonicExampleFilename": "./examples/signedURL.js",
   "devDependencies": {
     "chai": "^2.2.0",
+    "lodash": "^4.17.15",
     "mocha": "^2.2.1",
     "moment": "^2.9.0",
-    "lodash": "^4.17.15",
     "sinon": "^1.14.1"
   }
 }
